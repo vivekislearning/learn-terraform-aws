@@ -1,0 +1,29 @@
+Using Terraform to Build AWS Transit Gateway and Spoke VPCs
+https://aws.plainenglish.io/terraform-to-build-aws-transit-gateway-and-spoke-vpcs-df79bd6906c3
+https://hceris.com/provisioning-a-network-load-balancer-with-terraform/
+
+Terraform | Create a VPC, subnets and more…
+https://medium.com/@aliatakan/terraform-create-a-vpc-subnets-and-more-6ef43f0bf4c1
+
+Terraform : AWS - How to build reusable terraform modules with example
+https://www.youtube.com/watch?v=dMzY3GiJPiY
+
+TERRAFORM - DELEGATE ACCESS ACROSS AWS ACCOUNTS USING IAM ROLES
+https://www.bogotobogo.com/DevOps/Terraform/Terraform_AWS_sts_AssumeRole_Cross_Account.php
+AWS IDENTITY AND ACCESS MANAGEMENT (IAM) POLICIES, STS ASSUMEROLE, AND DELEGATE ACCESS ACROSS AWS ACCOUNTS
+https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html
+
+Terraform Rahul Wagh
+https://www.youtube.com/playlist?list=PL7iMyoQPMtAOz187ezONf7pL8oGZRobYl
+
+Interconnecting Amazon VPCs across AWS Regions using AWS Transit Gateway - Demo
+https://www.youtube.com/watch?v=cj1rQqLxXU8
+
+Deep Dive on Global Connectivity with AWS Direct Connect Connections and AWS Transit Gateway
+https://www.youtube.com/watch?v=7FHiGfG7H_E
+
+3 options for cross-account VPC access in AWS
+https://tomgregory.com/cross-account-vpc-access-in-aws/#Option_3_Transit_gateway_cross-account_access
+
+
+

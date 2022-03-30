@@ -1,0 +1,5 @@
+Learn-Terraform/keys/
+Simple-Terraform/keys/
+Simple-Terraform/terraform.*
+Simple-Terraform/provider.tf
+Simple-Terraform/.terraform/
