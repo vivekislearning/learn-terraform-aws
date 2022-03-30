@@ -25,5 +25,11 @@ https://www.youtube.com/watch?v=7FHiGfG7H_E
 3 options for cross-account VPC access in AWS
 https://tomgregory.com/cross-account-vpc-access-in-aws/#Option_3_Transit_gateway_cross-account_access
 
+AWS Site-to-Site VPN Connection|Using OpenSwan #10
+https://www.youtube.com/watch?v=Ju4K3K873sw
+
+Terraform AWS Transit Gateway VPN module 
+https://github.com/Flaconi/terraform-aws-transit-gateway-vpn
+
 
 
