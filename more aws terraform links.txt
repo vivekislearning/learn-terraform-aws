@@ -30,6 +30,7 @@ https://www.youtube.com/watch?v=Ju4K3K873sw
 
 Terraform AWS Transit Gateway VPN module 
 https://github.com/Flaconi/terraform-aws-transit-gateway-vpn
-
-
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpn_connection
+https://github.com/quickbooks2018/Terraform-V-12/tree/master/terraform.v12/vpc%2Btgw/modules/aws-transit-gateway
+https://aviatrix.com/learn-center/answered-transit/why-should-i-use-the-aviatrix-terraform-provider-to-build-and-maintain-my-aws-transit-gateway/
 
